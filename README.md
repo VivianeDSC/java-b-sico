@@ -1,2 +1,2 @@
-# java-b-sico
+# java-basico
 exemplos de java básico
