@@ -1,7 +1,8 @@
 public class MinhaClasse{
 
     public static void main(String[] args) {
-        System.out.println("Fui executado pelo terminal Java");
+        System.out.println("Fui executado pelo terminal Java novamente");
         
     }
+    
 }

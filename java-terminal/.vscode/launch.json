@@ -4,6 +4,15 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "Launch SobreMim",
+            "request": "launch",
+            "mainClass": "SobreMim",
+            "projectName": "java-terminal_6738f6"
+        },
         {
             "type": "java",
             "name": "Launch Current File",
