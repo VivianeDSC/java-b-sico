@@ -4,8 +4,13 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "java-terminal_6738f6"
+        },
         {
             "type": "java",
             "name": "Launch MinhaClasse",
@@ -13,8 +18,6 @@
             "mainClass": "MinhaClasse",
             "projectName": "java-terminal_6738f6"
         },
-
-        
         {
             "name": "Launch SobreMim",
             "type": "java",
@@ -27,7 +30,5 @@
                 "1.64"
             ]
         }
-
-
     ]
 }
